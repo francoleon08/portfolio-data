@@ -1,0 +1,45 @@
+{
+  "techStack": {
+    "Backend": [
+      "Spring Boot 3",
+      "Java",
+      "MySQL",
+      "Docker",
+      "SOAP/REST APIs",
+      "JPA/Hibernate",
+      "Maven"
+    ],
+    "Testing": [
+      "JUnit",
+      "Mockito",
+      "Postman",
+      "Playwright"
+    ],
+    "Frontend": [
+      "ReactJS",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "Infrastructure": [
+      "Docker",
+      "Don Web Cloud VPS",
+      "Vercel",
+      "Render",
+      "Git",
+      "GitHub",
+      "Linux"
+    ]
+  },
+  "skills": {
+    "programming_languages": ["Java", "JavaScript", "TypeScript", "Python", "C#"],
+    "frameworks": ["Spring Boot", "React", "Next.js", "Express"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+    "tools": ["Docker", "Git", "Maven", "Postman"],
+    "cloud_platforms": ["Vercel", "Render", "Don Web"],
+    "operating_systems": ["Linux", "Windows", "macOS"]
+  }
+}

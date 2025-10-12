@@ -1,0 +1,42 @@
+{
+  "education": [
+    {
+      "id": "computer-science-degree",
+      "title": "Ciencias de la Computación",
+      "institution": "Universidad Nacional del Sur",
+      "degree": "Licenciatura en Ciencias de la Computación",
+      "period": "2020 - Presente",
+      "progress": 80,
+      "description": "Estudiante avanzado de la carrera de Ciencias de la Computación",
+      "location": "Bahía Blanca, Argentina",
+      "status": "en_progress",
+      "gpa": null,
+      "relevant_courses": [
+        "Algoritmos y Estructuras de Datos",
+        "Programación Orientada a Objetos",
+        "Bases de Datos",
+        "Sistemas Operativos",
+        "Arquitectura de Computadoras",
+        "Matemática Discreta",
+        "Análisis Matemático"
+      ]
+    },
+    {
+      "id": "teaching-assistant",
+      "title": "Ayudante de docencia",
+      "institution": "Universidad Nacional del Sur",
+      "degree": "Ayudante de Cátedra",
+      "period": "2025 - Presente",
+      "progress": 100,
+      "description": "Materia: \"Resolución de problemas y algoritmos\"",
+      "location": "Bahía Blanca, Argentina",
+      "status": "active",
+      "gpa": null,
+      "responsibilities": [
+        "Guiar a los estudiantes con los trabajos prácticos",
+        "Corrección de examenes y proyectos",
+        "Apoyo en proyectos de programación"
+      ]
+    }
+  ]
+}

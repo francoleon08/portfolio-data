@@ -1,0 +1,56 @@
+{
+  "experiences": [
+    {
+      "id": "commercial-system",
+      "title": "Sistema de Gestión Comercial",
+      "company": "Proyecto Profesional",
+      "period": "2025 - Presente",
+      "description": "Estudio de mercado, análisis, desarrollo y mantenimiento de un sistema integral de gestión comercial en producción integrado con ARCA (ex AFIP), manejando operaciones críticas del negocio.",
+      "responsibilities": [
+        "Desarrollo de arquitectura backend con Spring Boot 3",
+        "Integración con servicios web SOAP de ARCA (ex-AFIP)",
+        "Creación y gestión de base de datos MySQL y optimización de consultas",
+        "Implementación de contenedores Docker para despliegue",
+        "Mantenimiento y soporte de sistema en producción",
+        "Politicas de backup y recuperación de datos",
+        "Colaboración con clientes para entender y cumplir requisitos"
+      ],
+      "type": "professional",
+      "location": "Remoto",
+      "technologies": ["Spring Boot 3", "MySQL", "Docker", "SOAP Web Services", "ARCA", "Don Web"]
+    },
+    {
+      "id": "academic-assistant",
+      "title": "Ayudante de Cátedra",
+      "company": "Universidad Nacional del Sur",
+      "period": "2025 - Presente",
+      "description": "Apoyo académico en la materia 'Resolución de Problemas y Algoritmos' para estudiantes de Ciencias de la Computación.",
+      "responsibilities": [
+        "Guía a estudiantes en trabajos prácticos de programación",
+        "Corrección y evaluación de exámenes",
+        "Apoyo en proyectos de algoritmos y estructuras de datos",
+        "Mentoría en buenas prácticas de programación",
+        "Colaboración con el profesor titular, asistente y otros ayudantes"
+      ],
+      "type": "academic",
+      "location": "Bahía Blanca, Argentina",
+      "technologies": ["Algoritmos", "Estructuras de Datos", "Programación", "Docencia"]
+    },
+    {
+      "id": "prodeconsa-frontend",
+      "title": "Prodeconsa SA",
+      "company": "Coderhouse - Proyecto Laboral",
+      "period": "2022 - 2022",
+      "description": "Desarrollo frontend para un sitio web estático profesional, asegurando un diseño moderno y responsivo.",
+      "responsibilities": [
+        "Desarrollo de frontend con HTML, CSS y JavaScript",
+        "Implementación de diseño responsivo",
+        "Colaboración con diseñadores para cumplir requisitos visuales",
+        "Optimización del rendimiento del sitio web"
+      ],
+      "type": "professional",
+      "location": "Remoto",
+      "technologies": ["HTML", "CSS", "JavaScript", "Responsive Design"]
+    }
+  ]
+}

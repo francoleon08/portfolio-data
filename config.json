@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-12-19T00:00:00Z",
+  "settings": {
+    "cacheEnabled": true,
+    "cacheTimeout": 300000,
+    "autoRefresh": true,
+    "refreshInterval": 60000
+  },
+  "metadata": {
+    "description": "Configuración del sistema de datos dinámicos del portfolio",
+    "author": "Franco Leon",
+    "created": "2024-12-19",
+    "updated": "2024-12-19"
+  },
+  "dataFiles": {
+    "projects": {
+      "path": "projects.json",
+      "description": "Información de proyectos del portfolio",
+      "required": true,
+      "schema": "project"
+    },
+    "experience": {
+      "path": "experience.json",
+      "description": "Experiencia laboral y académica",
+      "required": true,
+      "schema": "experience"
+    },
+    "education": {
+      "path": "education.json",
+      "description": "Información educativa y formación",
+      "required": true,
+      "schema": "education"
+    },
+    "personal": {
+      "path": "personal.json",
+      "description": "Información personal y de contacto",
+      "required": true,
+      "schema": "personal"
+    },
+    "techStack": {
+      "path": "tech-stack.json",
+      "description": "Tecnologías y habilidades",
+      "required": true,
+      "schema": "techStack"
+    }
+  }
+}

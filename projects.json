@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": "sumarsi-gestion",
+      "title": "SumarSi Gestión",
+      "description": "Sistema integral para gestión comercial basado en el \"método de lo percibido\", gestionando ventas, compras, costos fijos, proveedores, cajas, conciliaciones y flujo de capital. Integrado con servicios web SOAP de ARCA (ex-AFIP) para facturación electrónica.",
+      "stack": ["Spring Boot 3", "MySQL", "ReactJs", "Docker", "Jwt", "SOAP Web Services", "Don Web"],
+      "isPrivate": true,
+      "note": "Repositorio Privado por contrato con el cliente. Si deseas más información, contáctame.",
+      "link": null,
+      "image": null,
+      "featured": true
+    },
+    {
+      "id": "netflix-microservices",
+      "title": "Clon de Netflix con Microservicios",
+      "description": "Clon escalable de Netflix que muestra arquitectura de microservicios y prácticas de desarrollo modernas. Incluye un catalogo de películas y un sistema de recomendaciones en Python.",
+      "stack": ["React", "Spring Boot", "Docker", "MongoDB", "RabbitMQ", "Python", "C#"],
+      "isPrivate": false,
+      "note": null,
+      "link": "https://github.com/francoleon08/proyecto-topicos-microservicios",
+      "image": null,
+      "featured": true
+    },
+    {
+      "id": "prodeconsa-website",
+      "title": "Prodeconsa S.A. - Sitio Web Estático",
+      "description": "Sitio web estático profesional desarrollado para un cliente con diseño moderno y layout responsivo.",
+      "stack": ["HTML", "CSS", "JavaScript"],
+      "isPrivate": false,
+      "note": null,
+      "link": "https://prodeconsa-sa.vercel.app/",
+      "image": null,
+      "featured": false
+    },
+    {
+      "id": "gym-access",
+      "title": "Gym Access - Reserva de Turnos",
+      "description": "Sistema de reserva de turnos para un gimnasio.",
+      "stack": ["React", "Express", "TypeScript", "PostgreSQL", "Superbase"],
+      "isPrivate": false,
+      "note": null,
+      "link": "https://react-express-iaweb-0z24.onrender.com/",
+      "image": null,
+      "featured": false
+    }
+  ]
+}
