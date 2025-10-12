@@ -3,6 +3,7 @@
     "Backend": [
       "Spring Boot 3",
       "Java",
+      "PHP",
       "MySQL",
       "Docker",
       "SOAP/REST APIs",
@@ -26,6 +27,7 @@
     ],
     "Infrastructure": [
       "Docker",
+      "Docker Compose",      
       "Don Web Cloud VPS",
       "Vercel",
       "Render",
@@ -35,11 +37,11 @@
     ]
   },
   "skills": {
-    "programming_languages": ["Java", "JavaScript", "TypeScript", "Python", "C#"],
+    "programming_languages": ["Java", "JavaScript", "TypeScript", "Python", "C#", "PHP"],
     "frameworks": ["Spring Boot", "React", "Next.js", "Express"],
-    "databases": ["MySQL", "PostgreSQL", "MongoDB"],
-    "tools": ["Docker", "Git", "Maven", "Postman"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+    "tools": ["Docker", "Docker Compose", "Git", "Maven", "Postman"],
     "cloud_platforms": ["Vercel", "Render", "Don Web"],
-    "operating_systems": ["Linux", "Windows", "macOS"]
+    "operating_systems": ["Linux", "Windows"]
   }
 }

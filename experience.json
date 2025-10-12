@@ -1,6 +1,22 @@
 {
   "experiences": [
     {
+      "id": "pasantia-desarrollo-software",
+      "title": "Pasantía en desarrollo de Software",
+      "company": "Fundación de la Universidad Nacional del Sur",
+      "period": "2025 - Presente",
+      "description": "Aprendizaje, mantenimiento, migración y ampliación de sistemas internos de gestión financiera y administrativa.",
+      "responsibilities": [
+        "Participación en el mantenimiento, migración en contenedores Docker y ampliación de los sistemas internos de gestión financiera y administrativa",
+        "Incorporación de nuevas funcionalidades y mejoras técnicas en sistemas basados en PHP, JavaScript/React y MySQL",
+        "Colaboración en la migración y en la modernización de la infraestructura tecnológica.",
+        "Trabajo bajo metodología Kanban, con gestión de versiones y revisión de código en GitHub."        
+      ],
+      "type": "professional",
+      "location": "Remoto",
+      "technologies": ["PHP", "JavaScript", "React", "MySQL", "Docker", "Docker Compose", "Kanban"]
+    },
+    {
       "id": "commercial-system",
       "title": "Sistema de Gestión Comercial",
       "company": "Proyecto Profesional",
