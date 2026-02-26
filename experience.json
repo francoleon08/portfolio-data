@@ -1,6 +1,21 @@
 {
   "experiences": [
     {
+      "id": "blackbox",
+      "title": "Web Developer",
+      "company": "Blackbox",
+      "period": "2026 - Presente",
+      "description": "Desarrollo de plataformas web, con tecnologias modernas y escalables",
+      "responsibilities": [
+        "Desarrollo backend en Express con TypeScript. Testing con Jest y Supertest",
+        "Frontend en React con TypeScript",
+        "Trabajo bajo metodología Kanban, con gestión de versiones y revisión de código en GitHub."        
+      ],
+      "type": "professional",
+      "location": "Remoto",
+      "technologies": ["TypeScript", "Express", "React", "Firebase", "Firestore", "Kanban"]
+    },
+    {
       "id": "pasantia-desarrollo-software",
       "title": "Pasantía en desarrollo de Software",
       "company": "Fundación de la Universidad Nacional del Sur",
@@ -39,7 +54,7 @@
       "id": "academic-assistant",
       "title": "Ayudante de Cátedra",
       "company": "Universidad Nacional del Sur",
-      "period": "2025 - Presente",
+      "period": "2025 - 2026",
       "description": "Apoyo académico en la materia 'Resolución de Problemas y Algoritmos' para estudiantes de Ciencias de la Computación.",
       "responsibilities": [
         "Guía a estudiantes en trabajos prácticos de programación",
