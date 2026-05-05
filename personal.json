@@ -1,14 +1,14 @@
 {
   "personal": {
     "name": "Franco Leon",
-    "title": "Desarrollador Backend y Full Stack Jr",
-    "subtitle": "Estudiante Avanzado de Ciencias de la Computación | Ayudante de Cátedra en Universidad Nacional del Sur",
+    "title": "Backend & Full Stack Developer",
+    "subtitle": "Estudiante Avanzado de Ciencias de la Computación",
     "description": "Construyo aplicaciones web robustas y escalabes usando Spring Boot, React y Docker.",
-    "about": "Soy un desarrollador orientado al backend especializado en construir aplicaciones robustas con Spring Boot, MySQL y Docker. También trabajo con React para desarrollo frontend. Tengo experiencia en proyectos del mundo real, incluyendo sistemas de gestión comercial en producción. Actualmente, soy estudiante avanzado de Ciencias de la Computación en la Universidad Nacional del Sur y ayudante de cátedra en la materia \"Resolución de Problemas y Algoritmos.\"",
+    "about": "Construyo aplicaciones web robustas y escalabes usando Spring Boot, React y Docker.",
     "location": "Bahía Blanca, Argentina",
     "email": "francoleon.dev@gmail.com",
     "phone": null,
-    "website": null,
+    "website": "https://francoleon.is-a.dev",
     "social": {
       "github": "https://github.com/francoleon08",
       "linkedin": "https://www.linkedin.com/in/francoleondev/",
